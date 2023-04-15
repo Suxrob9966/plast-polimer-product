@@ -27,7 +27,7 @@
           Plast Polimer Product
         </q-toolbar-title>
         <q-tabs align="right">
-          <q-route-tab to="/page1" label="Home" />
+          <q-route-tab to="/home" label="Home" />
           <q-route-tab to="/gallery" label="Gallery" />
           <q-route-tab to="/contact" label="Contact us" />
         </q-tabs>
